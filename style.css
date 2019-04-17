@@ -1,0 +1,43 @@
+#title{    text-align: center;
+    background: black;
+    color: blue;
+    border: red double;
+    
+}
+#Email{
+    text-align: left;
+    color: blue; 
+    
+}
+img{
+  border-radius: 50%; 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+#fillme{
+    background:black;
+}
+#mytitle{
+    color: blue;
+    text-align: center;
+}
+#myArticle{
+    color: blue;
+    border: double red;
+    text-align: center
+}
+#mySubTitle{
+    text-align: left;
+    color: blue;
+
+}
+#myList{
+    color: blue;
+    text-align: left;
+}
+#myParagraph{
+    color: blue;
+    text-align: left
+}
